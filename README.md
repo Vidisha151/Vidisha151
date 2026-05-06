@@ -72,10 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vidisha151&show_icons=true&theme=radical" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidisha151&layout=compact&theme=radical" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Vidisha151&show_icons=true" />
 </div>
 ---
 
