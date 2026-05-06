@@ -72,12 +72,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidisha151&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vidisha151&show_icons=true&theme=radical" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidisha151&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidisha151&layout=compact&theme=radical" height="180"/>
 
 </div>
-
 ---
 
 # 🔥 GitHub Streak
